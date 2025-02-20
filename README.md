@@ -13,6 +13,6 @@ OPTIONAL:
 8. Start a gz_ros_bridge
 9. Run the gz_interface and start sending commands.
 
-Credit for the Atlas of course goes to Boston Dynamics. Found [here]{https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot}
+Credit for the Atlas of course goes to Boston Dynamics, found [here](https://github.com/openai/roboschool/tree/1.0.49/roboschool/models_robot).
 
 Welcome to the Zoo!
