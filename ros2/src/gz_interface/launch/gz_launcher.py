@@ -20,6 +20,8 @@ def generate_launch_description():
     
     gz_interface_node = Node(package='gz_interface', executable='gz_interface', name='gz_interface')
     
+
+    
     # Create the launch description and populate
     ld = LaunchDescription([
         RosGzBridge(

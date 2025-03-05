@@ -24,7 +24,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'gz_interface = gz_interface.gz_interface:main'
+            'gz_interface = gz_interface.gz_interface:main',
+            'controller = gz_interface.controller:main'
         ],
     },
 )
