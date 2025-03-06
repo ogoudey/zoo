@@ -27,5 +27,5 @@ Finally, run the control scripts.
 ```
 colcon build
 . install/setup.bash
-ros2 run gz_interface gz_interface
+ros2 run gz_interface controller.py
 ```
