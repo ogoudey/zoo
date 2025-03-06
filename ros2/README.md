@@ -1,5 +1,8 @@
 # RL Zoo
+## Requirements
+Running this requires gazebo and ROS2.
 
+## Running
 Shell A:
 This targets a world in the gz demos folder.
 ```
